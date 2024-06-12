@@ -17,3 +17,20 @@ section {
 .heading {
 	font-family: "Catamaran";
 }
+
+/* width */
+::-webkit-scrollbar {
+	width: 8px;
+	background-color: white;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+	background: transparent;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+	background: #bbb7c1;
+	border-radius: 50rem;
+}

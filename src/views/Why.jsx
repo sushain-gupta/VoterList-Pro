@@ -7,7 +7,7 @@ const Why = () => {
         <section id="features" className="text-gray-600 flex px-5 py-24 bg-gradient-to-br from-blue-50 via-white to-blue-50">
             <div className="container mx-auto">
                 <div className="text-center mb-20">
-                    <h2 className="sm:text-4xl text-2xl font-bold text-gray-900 mb-4 heading">Why Choose VoterList Pro?</h2>
+                    <h2 className="sm:text-4xl text-3xl font-bold text-gray-900 mb-4 heading">Why Choose VoterList Pro?</h2>
 
                     <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto text-gray-500s">Discover the ultimate solution for seamless voter data extraction and management. Our innovative service combines accuracy, efficiency, and security to meet your needs.</p>
                     <div className="flex mt-6 justify-center">

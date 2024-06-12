@@ -30,7 +30,7 @@ Thank you.`;
         <section id="pricing" className="text-gray-600 flex px-5 py-24">
             <div className="container px-5 mx-auto">
                 <div className="flex flex-col text-center w-full mb-14">
-                    <h2 className="sm:text-4xl text-2xl font-bold text-gray-900 mb-4 heading">Pricing</h2>
+                    <h2 className="sm:text-4xl text-3xl font-bold text-gray-900 mb-4 heading">Pricing</h2>
 
                     <p className="lg:w-2/3 mx-auto leading-relaxed text-base text-gray-500">
                         Choose the plan that best fits your needs. Whether you require data for a few thousand voters or hundreds of thousands, our flexible pricing ensures you get the best value for your investment.

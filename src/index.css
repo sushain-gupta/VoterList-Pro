@@ -1,0 +1,19 @@
+/* Importing Google Font: Poppins with font weights 400, 600, and 700 */
+@import url("https://fonts.googleapis.com/css2?family=Catamaran:wght@100;500;600;700;800;900&family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=Poppins:wght@300;400;500;600&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#root {
+	margin: 0 auto;
+	font-family: "Plus Jakarta Sans", "Poppins", sans-serif;
+}
+
+section {
+	background-color: white;
+}
+
+.heading {
+	font-family: "Catamaran";
+}

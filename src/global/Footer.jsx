@@ -3,7 +3,7 @@ const Footer = () => {
     return (
         <footer className="text-gray-100 body-font">
             <div className="bg-slate-950">
-                <div className="container mx-auto py-4 px-5 flex flex-wrap flex-col-reverse gap-5 sm:flex-row">
+                <div className="container mx-auto py-4 px-5 flex flex-wrap items-center flex-col-reverse gap-5 sm:flex-row">
                     <p className="text-gray-100 text-sm text-center sm:text-left">© 2024 VoterList Pro <br /> A Product By 
                         <a href="https://sushaingupta.vercel.app" rel="noopener noreferrer" className="text-blue-300 ml-1" target="_blank">Sushain Gupta.</a>
                     </p>

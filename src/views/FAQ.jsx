@@ -20,6 +20,10 @@ const FAQ = () => {
             question: 'How can I use this service?',
             answer: 'To use our service, please send us a message along with the service you are looking for at sushain.work@gmail.com. Our team will respond within 48 hours to assist you further.'
         },
+        {
+            question: 'Is there any thing required from my side?',
+            answer: "Once you provide the requested plan, we'll just need the Electoral List, which we will then convert into CSV format for you."
+        },
     ];
 
 
